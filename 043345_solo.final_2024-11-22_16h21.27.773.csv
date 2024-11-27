@@ -1,0 +1,17 @@
+﻿isword,answer,key_resp.keys,key_resp.rt,,,,
+,,,,,,,
+1,right,right,1.3672167,,,words,1.037911614
+0,left,left,1.0900163,,,non words,0.920569289
+0,left,left,0.9307005,,,,
+1,right,right,0.8051316,,,,
+1,right,right,1.0787685,,,,
+1,right,right,0.7731793,,,,
+0,left,right,1.1460521,,,,
+0,left,left,0.9076324,,,,
+1,right,right,0.83811,,,,
+0,left,right,0.8812111,,,,
+1,right,left,1.0640099,,,,
+1,right,right,1.6617622,,,,
+1,right,right,0.741213,,,,
+0,left,left,0.7410114,,,,
+0,left,left,0.8126315,,,,

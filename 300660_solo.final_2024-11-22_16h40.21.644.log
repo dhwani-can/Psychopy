@@ -1,0 +1,164 @@
+23.3580 	INFO 	Loaded monitor calibration from ['2024_08_09 11:02']
+25.6150 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000250EC314DC0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000250EC314E20>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-1., -1., -1.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000250EC3147C0>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000250F6409E40>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1366,  768]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+25.6151 	EXP 	window1: backgroundImage = ''
+25.6152 	EXP 	window1: backgroundFit = 'none'
+25.6153 	EXP 	window1: mouseVisible = False
+31.3690 	INFO 	keyboard.Keyboard is using iohub backend.
+31.3691 	INFO 	keyboard.Keyboard is using iohub backend.
+31.3692 	INFO 	keyboard.Keyboard is using iohub backend.
+31.3693 	INFO 	keyboard.Keyboard is using iohub backend.
+31.3694 	EXP 	solo.final: status = STARTED
+31.3699 	EXP 	window1: mouseVisible = False
+31.6670 	EXP 	Created instructionText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05000000000000001, italic=False, languageStyle='LTR', name='instructionText', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+31.6673 	EXP 	window1: mouseVisible = False
+31.6689 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+31.6690 	EXP 	window1: mouseVisible = False
+31.6790 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05000000000000001, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Thank You for Participating!', units='height', win=Window(...), wrapWidth=1)
+0.0727 	INFO 	Keyboard events cleared
+0.0721 	EXP 	instructionText: autoDraw = True
+1.4742 	EXP 	Imported solo.final.xlsx as conditions, 15 conditions, 3 params
+1.4782 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'characters': 'glop', 'isword': 0, 'answer': 'left', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+1.4915 	DATA 	Keypress: space
+1.4958 	INFO 	Keyboard events cleared
+1.4951 	EXP 	instructionText: autoDraw = False
+1.4951 	EXP 	text: height = 0.05000000000000001
+1.4951 	EXP 	text: height = 0.05000000000000001
+1.4951 	EXP 	text: height = 0.05000000000000001
+1.4951 	EXP 	text: text = 'glop'
+1.4951 	EXP 	text: autoDraw = True
+2.7347 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'characters': 'zorp', 'isword': 0, 'answer': 'left', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+2.7425 	DATA 	Keypress: left
+2.7506 	INFO 	Keyboard events cleared
+2.7498 	EXP 	text: autoDraw = False
+2.7498 	EXP 	text: height = 0.05000000000000001
+2.7498 	EXP 	text: height = 0.05000000000000001
+2.7498 	EXP 	text: height = 0.05000000000000001
+2.7498 	EXP 	text: text = 'zorp'
+2.7498 	EXP 	text: autoDraw = True
+4.3515 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'characters': 'bloop', 'isword': 0, 'answer': 'left', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+4.3575 	DATA 	Keypress: left
+4.3667 	INFO 	Keyboard events cleared
+4.3660 	EXP 	text: autoDraw = False
+4.3660 	EXP 	text: height = 0.05000000000000001
+4.3660 	EXP 	text: height = 0.05000000000000001
+4.3660 	EXP 	text: height = 0.05000000000000001
+4.3660 	EXP 	text: text = 'bloop'
+4.3660 	EXP 	text: autoDraw = True
+7.1510 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'characters': 'bright', 'isword': 1, 'answer': 'right', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+7.1567 	DATA 	Keypress: right
+7.1668 	INFO 	Keyboard events cleared
+7.1661 	EXP 	text: autoDraw = False
+7.1661 	EXP 	text: height = 0.05000000000000001
+7.1661 	EXP 	text: height = 0.05000000000000001
+7.1661 	EXP 	text: height = 0.05000000000000001
+7.1661 	EXP 	text: text = 'bright'
+7.1661 	EXP 	text: autoDraw = True
+7.8843 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'characters': 'shook', 'isword': 1, 'answer': 'right', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+7.8899 	DATA 	Keypress: right
+7.9001 	INFO 	Keyboard events cleared
+7.8994 	EXP 	text: autoDraw = False
+7.8994 	EXP 	text: height = 0.05000000000000001
+7.8994 	EXP 	text: height = 0.05000000000000001
+7.8994 	EXP 	text: height = 0.05000000000000001
+7.8994 	EXP 	text: text = 'shook'
+7.8994 	EXP 	text: autoDraw = True
+7.9674 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'characters': 'tort', 'isword': 1, 'answer': 'right', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+7.9726 	DATA 	Keypress: left
+7.9837 	INFO 	Keyboard events cleared
+7.9829 	EXP 	text: autoDraw = False
+7.9829 	EXP 	text: height = 0.05000000000000001
+7.9829 	EXP 	text: height = 0.05000000000000001
+7.9829 	EXP 	text: height = 0.05000000000000001
+7.9829 	EXP 	text: text = 'tort'
+7.9829 	EXP 	text: autoDraw = True
+9.8507 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'characters': 'serenity', 'isword': 1, 'answer': 'right', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+9.8575 	DATA 	Keypress: right
+9.8667 	INFO 	Keyboard events cleared
+9.8660 	EXP 	text: autoDraw = False
+9.8660 	EXP 	text: height = 0.05000000000000001
+9.8660 	EXP 	text: height = 0.05000000000000001
+9.8660 	EXP 	text: height = 0.05000000000000001
+9.8660 	EXP 	text: text = 'serenity'
+9.8660 	EXP 	text: autoDraw = True
+10.5677 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'characters': 'squirrel ', 'isword': 1, 'answer': 'right', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+10.5769 	DATA 	Keypress: right
+10.5827 	INFO 	Keyboard events cleared
+10.5822 	EXP 	text: autoDraw = False
+10.5822 	EXP 	text: height = 0.05000000000000001
+10.5822 	EXP 	text: height = 0.05000000000000001
+10.5822 	EXP 	text: height = 0.05000000000000001
+10.5822 	EXP 	text: text = 'squirrel '
+10.5822 	EXP 	text: autoDraw = True
+11.2865 	DATA 	Keypress: right
+11.3005 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'characters': 'cat', 'isword': 1, 'answer': 'right', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+11.3163 	INFO 	Keyboard events cleared
+11.3157 	EXP 	text: autoDraw = False
+11.3157 	EXP 	text: height = 0.05000000000000001
+11.3157 	EXP 	text: height = 0.05000000000000001
+11.3157 	EXP 	text: height = 0.05000000000000001
+11.3157 	EXP 	text: text = 'cat'
+11.3157 	EXP 	text: autoDraw = True
+11.8843 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'characters': 'blunket', 'isword': 0, 'answer': 'left', 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+11.8906 	DATA 	Keypress: right
+11.9002 	INFO 	Keyboard events cleared
+11.8995 	EXP 	text: autoDraw = False
+11.8995 	EXP 	text: height = 0.05000000000000001
+11.8995 	EXP 	text: height = 0.05000000000000001
+11.8995 	EXP 	text: height = 0.05000000000000001
+11.8995 	EXP 	text: text = 'blunket'
+11.8995 	EXP 	text: autoDraw = True
+12.6502 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'characters': 'snorfle', 'isword': 0, 'answer': 'left', 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+12.6561 	DATA 	Keypress: left
+12.6659 	INFO 	Keyboard events cleared
+12.6654 	EXP 	text: autoDraw = False
+12.6654 	EXP 	text: height = 0.05000000000000001
+12.6654 	EXP 	text: height = 0.05000000000000001
+12.6654 	EXP 	text: height = 0.05000000000000001
+12.6654 	EXP 	text: text = 'snorfle'
+12.6654 	EXP 	text: autoDraw = True
+13.5667 	EXP 	New trial (rep=0, index=11): <Trial 11 (11 in rep 0) data={'characters': 'mib', 'isword': 0, 'answer': 'left', 'thisN': 11, 'thisTrialN': 11, 'thisRepN': 0}>
+13.5720 	DATA 	Keypress: left
+13.5827 	INFO 	Keyboard events cleared
+13.5821 	EXP 	text: autoDraw = False
+13.5821 	EXP 	text: height = 0.05000000000000001
+13.5821 	EXP 	text: height = 0.05000000000000001
+13.5821 	EXP 	text: height = 0.05000000000000001
+13.5821 	EXP 	text: text = 'mib'
+13.5821 	EXP 	text: autoDraw = True
+14.3837 	EXP 	New trial (rep=0, index=12): <Trial 12 (12 in rep 0) data={'characters': 'brave', 'isword': 1, 'answer': 'right', 'thisN': 12, 'thisTrialN': 12, 'thisRepN': 0}>
+14.3921 	DATA 	Keypress: left
+14.3999 	INFO 	Keyboard events cleared
+14.3992 	EXP 	text: autoDraw = False
+14.3992 	EXP 	text: height = 0.05000000000000001
+14.3992 	EXP 	text: height = 0.05000000000000001
+14.3992 	EXP 	text: height = 0.05000000000000001
+14.3992 	EXP 	text: text = 'brave'
+14.3992 	EXP 	text: autoDraw = True
+15.1838 	EXP 	New trial (rep=0, index=13): <Trial 13 (13 in rep 0) data={'characters': 'tsunami', 'isword': 1, 'answer': 'right', 'thisN': 13, 'thisTrialN': 13, 'thisRepN': 0}>
+15.1899 	DATA 	Keypress: right
+15.1999 	INFO 	Keyboard events cleared
+15.1992 	EXP 	text: autoDraw = False
+15.1992 	EXP 	text: height = 0.05000000000000001
+15.1992 	EXP 	text: height = 0.05000000000000001
+15.1992 	EXP 	text: height = 0.05000000000000001
+15.1992 	EXP 	text: text = 'tsunami'
+15.1992 	EXP 	text: autoDraw = True
+16.1672 	EXP 	New trial (rep=0, index=14): <Trial 14 (14 in rep 0) data={'characters': 'quonkle', 'isword': 0, 'answer': 'left', 'thisN': 14, 'thisTrialN': 14, 'thisRepN': 0}>
+16.1750 	DATA 	Keypress: right
+16.1829 	INFO 	Keyboard events cleared
+16.1821 	EXP 	text: autoDraw = False
+16.1821 	EXP 	text: height = 0.05000000000000001
+16.1821 	EXP 	text: height = 0.05000000000000001
+16.1821 	EXP 	text: height = 0.05000000000000001
+16.1821 	EXP 	text: text = 'quonkle'
+16.1821 	EXP 	text: autoDraw = True
+17.0687 	DATA 	Keypress: left
+17.0998 	INFO 	Keyboard events cleared
+17.0991 	EXP 	text: autoDraw = False
+17.0991 	EXP 	text_2: autoDraw = True
+18.2846 	DATA 	Keypress: space
+18.2988 	EXP 	text_2: autoDraw = False
+18.2991 	EXP 	solo.final: status = STOPPED
+18.3216 	INFO 	saved data to 'C:\\Users\\91982\\Desktop\\data/300660_solo.final_2024-11-22_16h40.21.644.csv'
+18.3251 	INFO 	saved data to C:\Users\91982\Desktop\data/300660_solo.final_2024-11-22_16h40.21.644.psydat
+18.6050 	EXP 	window1: mouseVisible = True
